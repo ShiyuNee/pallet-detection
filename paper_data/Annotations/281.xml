@@ -1,0 +1,26 @@
+<annotation>
+	<folder>data3</folder>
+	<filename>281.jpg</filename>
+	<path>F:\nlp\pallet_detect\data3\281.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>720</width>
+		<height>1280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pocket</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>224</xmin>
+			<ymin>382</ymin>
+			<xmax>336</xmax>
+			<ymax>425</ymax>
+		</bndbox>
+	</object>
+</annotation>
