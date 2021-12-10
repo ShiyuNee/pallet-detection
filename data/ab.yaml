@@ -1,0 +1,8 @@
+train: D:\\2021-autumn\\lab\\yolov5-master\\paper_data\\train.txt
+val: D:\\2021-autumn\\lab\\yolov5-master\\paper_data\\val.txt
+
+# number of classed
+nc: 2
+
+#class names
+names: ['pocket' , 'front']
